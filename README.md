@@ -10,5 +10,5 @@ It's focused on the fundamentals with a simple but fun game, my intention was to
 What was covered
 
 ** Props
-** useState 
-**
+** create components
+** State - useState 
