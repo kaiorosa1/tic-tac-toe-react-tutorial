@@ -16,6 +16,9 @@ What was covered in the tutorial
 Core concepts 
 
 how to use props and state
+
 Lifting the state up
+
 Why immutability is good and can help you
+
 using key property when using map to generate multiple components
